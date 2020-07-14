@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#Welcome BETA testers! 
+
+Please use this Repository's Issues tab to report issues.
