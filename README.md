@@ -12,19 +12,19 @@ Read announcement Issue here: <a href="https://github.com/pro2store/Pro2Store/is
 
 **Step 1:** Install the package file as you would any Joomla package
 
-**Step 2:** Go to "Extensions >> Manage" and search for "pro2store". Make sure all plugins, modules, components and libraries are enabled. the instal script should take care fo this, but please make sure everything installed correctly.
+**Step 2:** Go to "Extensions >> Manage" and search for "pro2store". Make sure all plugins, modules, components and libraries are enabled. The instal script should take care fo this, but please make sure everything installed correctly.
 
 **Step 3:** Set up a shop category and a few articles to get your shop started. Do this in the Joomla Article manager
 
-**Step 4:** set up your templates in Yootheme Pro. Drag and drop the new Pro2Store elements into your templates.
+**Step 4:** Set up your templates in Yootheme Pro. Drag and drop the new Pro2Store elements into your templates.
 
-**Step 5:** Activate your Joomla articles as Pro2store Products. Go to the "Pro2Store ACtivation" tab in the article edit. Select "Yes" and save.
+**Step 5:** Activate your Joomla articles as Pro2store Products. Go to the "Pro2Store Activation" tab in the article edit. Select "Yes" and save.
 
 **Step 6:** Add Product data to your products. Again this is done in the article manager under the tab "Pro2Store Fields".
 
 **Step 7:** Set up a currency (you might need to do this earlier in the process... depends what errors are thrown). Do this in the Pro2Store component.
 
-**Step 8:** Go to the Pro2Store component params and set up your values.
+**Step 8:** Go to the Pro2Store component params and set up your values. You an set things like empty cart redirects and terms and conditions pages etc here.
 
 **Step 9:** At the moment I only have Stripe Checkout working for the checkout. So go to the Stripe Checkout plugin and enter some test API Keys.
 
@@ -32,7 +32,7 @@ Read announcement Issue here: <a href="https://github.com/pro2store/Pro2Store/is
 
 * **mod_protostorecartsummary** - Displays a summary of the checkout totals - subtotal, shipping total, grand total etc.
 
-* **mod_protostorecartuser** - Module for allowing the user to login and register inline. Also manages addresses for the order.
+* **mod_protostorecartuser** - Module for allowing the user to login and register "in-checkout". Also manages addresses for the order.
 
 * **mod_protostorecheckoutitems** - Displays a list of the items being ordered
 
@@ -40,6 +40,8 @@ Read announcement Issue here: <a href="https://github.com/pro2store/Pro2Store/is
 
 * **mod_protostorecouponfield** - Displays a text field for entering discount codes (these can be managed via the Pro2Store component)
 
-These modules work independantly of each other, so if you wish to build a multipage checkout, you're welcome to. this feature is not heavily tested so please report your findings on this.
+These modules work independantly of each other, so if you wish to build a multipage checkout, you're welcome to. This feature is not heavily tested so please report your findings on this.
 
 **Step 11:** Make a few test orders! :)
+
+**Step 12:** Come on to Github and tell me how you get on. Use the issue tracker to let me know if you spot any bugs etc.
