@@ -6,7 +6,7 @@ Please only report bugs, issues and errors. If you wish to discuss feature reque
   
 Thank You!
 
-Read Announcment Issue here: <a href="https://github.com/pro2store/Pro2Store/issues/1"> Announcment Issue </a>  
+Read announcement Issue here: <a href="https://github.com/pro2store/Pro2Store/issues/1"> Announcement Issue </a>  
 
 ## Installation and Setup instructions:
 
