@@ -11,7 +11,7 @@ Thank You!
 
 Step 1: Install the package file as you would any Joomla package
 
-Step 2: Go to "Extensions >> Manage" and search for "protostore". Make sure all plugins, modules, components and libraries are enabled. the instal script should take care fo this, but please make sure everything installed correctly.
+Step 2: Go to "Extensions >> Manage" and search for "pro2store". Make sure all plugins, modules, components and libraries are enabled. the instal script should take care fo this, but please make sure everything installed correctly.
 
 Step 3: Set up a shop category and a few articles to get your shop started. Do this in the Joomla Article manager
 
