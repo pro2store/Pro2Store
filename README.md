@@ -29,11 +29,11 @@ Thank You!
 
 **Step 10:** Set up your Checkout. At the moment the checkout system is a collection of Joomla Modules. So first create a Joomla Article for your checkout and set it as a Yootheme Builder page. Now drop in the modules and arrange them as you wish. These are: 
 
-* mod_protostorecartsummary 
-* mod_protostorecartuser
-* mod_protostorecheckoutitems
-* mod_protostorecheckoutpaymentbuttons
-* mod_protostorecouponfield
+* mod_protostorecartsummary - gives a summary of the checkout totals - subtotal, shipping total, grand total etc.
+* mod_protostorecartuser - Module for allowin the user to login and register without page reload. Also manages addresses for the order.
+* mod_protostorecheckoutitems - Gives a list of the items being ordered
+* mod_protostorecheckoutpaymentbuttons - Displays the checkout buttons for whatever payment plugins are enabled (Stripe Checkout only at the moment)
+* mod_protostorecouponfield - Displays a text field for entering discount codes (these can be managed via the Pro2Store component)
 
 These modules work independantly of each other, so if you wish to build a multipage checkout, you're welcome to. this feature is not heavily tested so please report your findings on this.
 
