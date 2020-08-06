@@ -9,25 +9,25 @@ Thank You!
 
 ## Installation and Setup instructions:
 
-_Step 1:_ Install the package file as you would any Joomla package
+**Step 1:** Install the package file as you would any Joomla package
 
-_Step 2:_ Go to "Extensions >> Manage" and search for "pro2store". Make sure all plugins, modules, components and libraries are enabled. the instal script should take care fo this, but please make sure everything installed correctly.
+**Step 2:** Go to "Extensions >> Manage" and search for "pro2store". Make sure all plugins, modules, components and libraries are enabled. the instal script should take care fo this, but please make sure everything installed correctly.
 
-_Step 3:_ Set up a shop category and a few articles to get your shop started. Do this in the Joomla Article manager
+**Step 3:** Set up a shop category and a few articles to get your shop started. Do this in the Joomla Article manager
 
-_Step 4:_ set up your templates in Yootheme Pro. Drag and drop the new Pro2Store elements into your templates.
+**Step 4:** set up your templates in Yootheme Pro. Drag and drop the new Pro2Store elements into your templates.
 
-_Step 5:_ Activate your Joomla articles as Pro2store Products. Go to the "Pro2Store ACtivation" tab in the article edit. Select "Yes" and save.
+**Step 5:** Activate your Joomla articles as Pro2store Products. Go to the "Pro2Store ACtivation" tab in the article edit. Select "Yes" and save.
 
-_Step 6:_ Add Product data to your products. Again this is done in the article manager under the tab "Pro2Store Fields".
+**Step 6:** Add Product data to your products. Again this is done in the article manager under the tab "Pro2Store Fields".
 
-_Step 7:_ Set up a currency (you might need to do this earlier in the process... depends what errors are thrown). Do this in the Pro2Store component.
+**Step 7:** Set up a currency (you might need to do this earlier in the process... depends what errors are thrown). Do this in the Pro2Store component.
 
-_Step 8:_ Go to the Pro2Store component params and set up your values.
+**Step 8:** Go to the Pro2Store component params and set up your values.
 
-_Step 9:_ At the moment I only have Stripe Checkout working for the checkout. So go to the Stripe Checkout plugin and enter some test API Keys.
+**Step 9:** At the moment I only have Stripe Checkout working for the checkout. So go to the Stripe Checkout plugin and enter some test API Keys.
 
-_Step 10:_ Set up your Checkout. At the moment the checkout system is a collection of Joomla Modules. So first create a Joomla Article for your checkout and set it as a Yootheme Builder page. Now drop in the modules and arrange them as you wish. These are: 
+**Step 10:** Set up your Checkout. At the moment the checkout system is a collection of Joomla Modules. So first create a Joomla Article for your checkout and set it as a Yootheme Builder page. Now drop in the modules and arrange them as you wish. These are: 
 
 * mod_protostorecartsummary 
 * mod_protostorecartuser
@@ -37,4 +37,4 @@ _Step 10:_ Set up your Checkout. At the moment the checkout system is a collecti
 
 These modules work independantly of each other, so if you wish to build a multipage checkout, you're welcome to. this feature is not heavily tested so please report your findings on this.
 
-_Step 11:_ Make a few test orders! :)
+**Step 11:** Make a few test orders! :)
