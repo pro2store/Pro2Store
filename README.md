@@ -16,7 +16,7 @@ Read announcement Issue here: <a href="https://github.com/pro2store/Pro2Store/is
 
 **Step 3:** Set up a shop category and a few articles to get your shop started. Do this in the Joomla Article manager
 
-**Step 4:** Set up your templates in Yootheme Pro. Drag and drop the new Pro2Store elements into your templates.
+**Step 4:** Set up your templates in Yootheme Pro. Drag and drop the new Pro2Store elements into your templates. **NOTE** You need to enable jQuery in your Yootheme Settings
 
 **Step 5:** Activate your Joomla articles as Pro2store Products. Go to the "Pro2Store Activation" tab in the article edit. Select "Yes" and save.
 
@@ -24,7 +24,7 @@ Read announcement Issue here: <a href="https://github.com/pro2store/Pro2Store/is
 
 **Step 7:** Set up a currency (you might need to do this earlier in the process... depends what errors are thrown). Do this in the Pro2Store component.
 
-**Step 8:** Go to the Pro2Store component params and set up your values. You an set things like empty cart redirects and terms and conditions pages etc here.
+**Step 8:** Go to the Pro2Store component params and set up your values. You can set things like empty cart redirects and terms and conditions pages etc here.
 
 **Step 9:** At the moment I only have Stripe Checkout working for the checkout. So go to the Stripe Checkout plugin and enter some test API Keys.
 
