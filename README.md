@@ -16,7 +16,9 @@ Read announcement Issue here: <a href="https://github.com/pro2store/Pro2Store/is
 
 **Step 3:** Set up a shop category and a few articles to get your shop started. Do this in the Joomla Article manager
 
-**Step 4:** Set up your templates in Yootheme Pro. Drag and drop the new Pro2Store elements into your templates. **NOTE** You need to enable jQuery in your Yootheme Settings
+**Step 4:** Set up your templates in Yootheme Pro. Drag and drop the new Pro2Store elements into your templates. 
+
+**NOTE You need to enable jQuery in your Yootheme Settings**
 
 **Step 5:** Activate your Joomla articles as Pro2store Products. Go to the "Pro2Store Activation" tab in the article edit. Select "Yes" and save.
 
