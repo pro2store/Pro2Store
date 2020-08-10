@@ -8,6 +8,8 @@ Thank You!
 
 Read announcement Issue here: <a href="https://github.com/pro2store/Pro2Store/issues/1"> Announcement Issue </a>  
 
+## Read the 1oth Aug Update here: <a href="https://github.com/pro2store/Pro2Store/issues/1"> Issue Updated </a>   
+
 ## Installation and Setup instructions:
 
 **Step 1:** Install the package file as you would any Joomla package
