@@ -48,7 +48,7 @@ Read announcement Issue here: <a href="https://github.com/pro2store/Pro2Store/is
 
 These modules work independantly of each other, so if you wish to build a multipage checkout, you're welcome to. This feature is not heavily tested so please report your findings on this.
 
-**Step 11:** Set up Stripe  <a href="https://www.youtube.com/watch?v=aFq8BQVjo4U"> WATCH VIDEO HERE </a>. You'll need to set up a webhook in the Stripe Dash. Watch the video for a guide.
+**Step 11:** Set up Stripe  <a href="https://www.youtube.com/watch?v=aFq8BQVjo4U"> WATCH VIDEO HERE </a>. You'll need to set up a webhook in the Stripe Dash. Watch the video for a guide. Copy endpoint URL: _index.php?option=com_protostore_
 
 
 **Step 12:** Make a few test orders! :)
