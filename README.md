@@ -32,7 +32,7 @@ Read announcement Issue here: <a href="https://github.com/pro2store/Pro2Store/is
 
 **Step 9:** At the moment I only have Stripe Checkout working for the checkout. So go to the Stripe Checkout plugin and enter some test API Keys.
 
-**Step 10:** Set up your Checkout. At the moment the checkout system is a collection of Joomla Modules. So first create a Joomla Article for your checkout and set it as a Yootheme Builder page. Now drop in the modules and arrange them as you wish. These are: 
+**Step 10:** Set up your Checkout. <a href="https://www.youtube.com/watch?v=NVi9_P24Fno"> WATCH VIDEO HERE </a> At the moment the checkout system is a collection of Joomla Modules. So first create a Joomla Article for your checkout and set it as a Yootheme Builder page. Now drop in the modules and arrange them as you wish. These are: 
 
 * **mod_protostorecartsummary** - Displays a summary of the checkout totals - subtotal, shipping total, grand total etc.
 
@@ -46,7 +46,7 @@ Read announcement Issue here: <a href="https://github.com/pro2store/Pro2Store/is
 
 These modules work independantly of each other, so if you wish to build a multipage checkout, you're welcome to. This feature is not heavily tested so please report your findings on this.
 
-**Step 11:** Set up Stripe  <a href="https://www.youtube.com/watch?v=aFq8BQVjo4U"> WATCH VIDEO HERE </a>
+**Step 11:** Set up Stripe  <a href="https://www.youtube.com/watch?v=aFq8BQVjo4U"> WATCH VIDEO HERE </a>. You'll need to set up a webhook in the Stripe Dash. Watch the video for a guide.
 
 
 **Step 12:** Make a few test orders! :)
