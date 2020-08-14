@@ -46,6 +46,9 @@ Read announcement Issue here: <a href="https://github.com/pro2store/Pro2Store/is
 
 These modules work independantly of each other, so if you wish to build a multipage checkout, you're welcome to. This feature is not heavily tested so please report your findings on this.
 
-**Step 11:** Make a few test orders! :)
+**Step 11:** Set up Stripe  <a href="https://www.youtube.com/watch?v=aFq8BQVjo4U"> WATCH VIDEO HERE </a>
 
-**Step 12:** Come on to Github and tell me how you get on. Use the issue tracker to let me know if you spot any bugs etc.
+
+**Step 12:** Make a few test orders! :)
+
+**Step 13:** Come on to Github and tell me how you get on. Use the issue tracker to let me know if you spot any bugs etc.
