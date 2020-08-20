@@ -6,6 +6,8 @@ See Changlog here: https://headwayapp.co/pro2store-changelog
 
 # BETA 2.1 (20th Aug) DOWNLOAD HERE:  <a href="https://we.tl/t-9SZgQ2kb12"> GET THE BETA </a>
 
+### BETA 2.1 removes testing code that prevented orders from being completed.
+
 Please use this Repository's <a href="https://github.com/pro2store/Pro2Store/issues"> Issues tab </a> to report issues.
 
 Please only report bugs, issues and errors. If you wish to discuss feature requests, please join the Gitter: https://gitter.im/pro2store/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link
