@@ -2,6 +2,8 @@
 
 # NEW BETA COMING TODAY 20th AUG
 
+See Changlog here: https://headwayapp.co/pro2store-changelog
+
 # BETA (14th Aug) DOWNLOAD HERE:  <a href="https://we.tl/t-KK3bgw8KVT"> GET THE BETA </a>
 
 Please use this Repository's <a href="https://github.com/pro2store/Pro2Store/issues"> Issues tab </a> to report issues.
