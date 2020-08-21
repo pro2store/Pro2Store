@@ -4,7 +4,7 @@
 
 See Changlog here: https://headwayapp.co/pro2store-changelog
 
-# BETA 2.2 (20th Aug PM) DOWNLOAD HERE:  <a href="https://we.tl/t-PaEUQ1RkTJ"> GET THE BETA </a>
+# BETA 2.3 (20th Aug PM) DOWNLOAD HERE:  <a href="https://we.tl/t-PaEUQ1RkTJ"> GET THE BETA </a>
 
 ### BETA 2.1 removes testing code that prevented orders from being completed.
 ### BETA 2.2 Adds Dynamic Content for Pro2Store.
