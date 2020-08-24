@@ -4,11 +4,14 @@
 
 See Changlog here: https://headwayapp.co/pro2store-changelog
 
-# BETA 2.3 (20th Aug PM) DOWNLOAD HERE:  <a href="https://we.tl/t-PaEUQ1RkTJ"> GET THE BETA </a>
+# BETA 3.1 (24th Aug) DOWNLOAD HERE:  <a href="https://we.tl/t-8T6zU41rQl"> GET THE BETA </a>
 
-### BETA 2.1 removes testing code that prevented orders from being completed.
-### BETA 2.2 Adds Dynamic Content for Pro2Store.
+### BETA 3.1 Fixes installation errors. 
 ### BETA 2.3 Fixes test code in biuld.
+### BETA 2.2 Adds Dynamic Content for Pro2Store.
+### BETA 2.1 removes testing code that prevented orders from being completed.
+
+
 
 Please use this Repository's <a href="https://github.com/pro2store/Pro2Store/issues"> Issues tab </a> to report issues.
 
