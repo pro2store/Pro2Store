@@ -37,7 +37,7 @@ Read announcement Issue here: <a href="https://github.com/pro2store/Pro2Store/is
 
 **Step 5:** Activate your Joomla articles as Pro2store Products. Go to the "Pro2Store Activation" tab in the article edit. Select "Yes" and save.
 
-**Step 6:** Add Product data to your products. Again this is done in the article manager under the tab "Pro2Store Fields".
+**Step 6:** Add Product data to your products. This done in the Pro2Store backend component.
 
 **Step 7:** Set up a currency (you might need to do this earlier in the process... depends what errors are thrown). Do this in the Pro2Store component.
 
