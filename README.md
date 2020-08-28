@@ -1,11 +1,12 @@
 # Welcome BETA testers! 👋
 
-# NEW BETA TODAY 20th AUG
+# NEW BETA TODAY 28th AUG
 
 See Changlog here: https://headwayapp.co/pro2store-changelog
 
-# BETA 3.1 (24th Aug) DOWNLOAD HERE:  <a href="https://we.tl/t-8T6zU41rQl"> GET THE BETA </a>
+# BETA 4 (28th Aug) DOWNLOAD HERE:  <a href="https://we.tl/t-wXZQpjK61i"> GET THE BETA </a>
 
+### BETA 4 Lots of stability improvements. 
 ### BETA 3.1 Fixes installation errors. 
 ### BETA 2.3 Fixes test code in biuld.
 ### BETA 2.2 Adds Dynamic Content for Pro2Store.
