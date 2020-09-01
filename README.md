@@ -8,7 +8,7 @@ See Changlog here: https://headwayapp.co/pro2store-changelog
 
 ### BETA 4 Lots of stability improvements. 
 ### BETA 3.1 Fixes installation errors. 
-### BETA 2.3 Fixes test code in biuld.
+### BETA 2.3 Fixes test code in build.
 ### BETA 2.2 Adds Dynamic Content for Pro2Store.
 ### BETA 2.1 removes testing code that prevented orders from being completed.
 
